@@ -1,0 +1,1 @@
+3. Escreva um programa que use um array para encontrar a média de 5 números do tipo double.
